@@ -1034,7 +1034,7 @@ input:checked + .slider:before {
     transform: translateX(-50%);
 }
 
-#surprise-section .section-content p, .while-cat {
+#surprise-section .section-content p, .white-cat {
     display: none;
 }
 
@@ -1372,4 +1372,5 @@ h1 {
     bottom: 0%;
     right: 14%;
 }
+
 }
